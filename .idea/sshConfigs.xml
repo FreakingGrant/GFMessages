@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="arctic.cse.msu.edu" id="f31b5b55-c07b-41c5-875e-202f6c44fe33" port="22" customName="webdev-gfmessages" nameFormat="CUSTOM" username="youngsgr">
+        <option name="customName" value="webdev-gfmessages" />
+      </sshConfig>
+    </configs>
+  </component>
+</project>
