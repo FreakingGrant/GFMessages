@@ -1,0 +1,8 @@
+{
+  "autoload": {
+    "psr-4": {"GFMessages\\": "lib/GFMessages"}
+  },
+  "require": {
+    "twilio/sdk": "^5.42"
+  }
+}

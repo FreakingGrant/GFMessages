@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="19bed6a0-3911-4ed0-ba2b-ce18c2ab152d" name="webdev-gfmessages" url="http://webdev.cse.msu.edu/~youngsgr/gfmessages">
+        <fileTransfer host="arctic.cse.msu.edu" port="22" rootFolder="/user/youngsgr/classweb/gfmessages" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
