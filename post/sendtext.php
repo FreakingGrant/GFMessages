@@ -3,8 +3,8 @@ require_once __DIR__ . '/../vendor/autoload.php';
 use Twilio\Rest\Client;
 
 // Your Account SID and Auth Token from twilio.com/console
-$account_sid = 'AC62c834c8da37c84687e4e53fc523fb06';
-$auth_token = '23134a257ffe0b05e254189f38c828d7';
+$account_sid = $_ENV['twilio_account_sid];
+$auth_token = $_ENV['twilio_account_auth_token'];
 
 // Phone numbers and message
 $twilio_number = "+14245437138";
